@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci_service" label="Telehealth Service" max_length="40" name="x_scta_teleservice_telehealth_service" sizeclass="164" type="collection">
+        <element label="Go-live date" max_length="40" name="go_live_date" type="glide_date"/>
+        <element choice="1" label="ICCE" max_length="99" name="icce" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Acute, Critical, and Trauma" sequence="10" value="acute_critical_trauma"/>
+                <element inactive_on_update="false" label="Anesthesia" sequence="20" value="anesthesia"/>
+                <element inactive_on_update="false" label="Children's Hospital/Women's" sequence="30" value="children_women"/>
+                <element inactive_on_update="false" label="Digestive Disease, Endocrine, and Metabolism" sequence="40" value="digestive_endocrine_metabolism"/>
+                <element inactive_on_update="false" label="Heart and Vascular" sequence="50" value="heart_vascular"/>
+                <element inactive_on_update="false" label="Lab/Pathology" sequence="60" value="lab_pathology"/>
+                <element inactive_on_update="false" label="Mental Health" sequence="70" value="mental_health"/>
+                <element inactive_on_update="false" label="Musculoskeletal" sequence="80" value="musculoskeletal"/>
+                <element inactive_on_update="false" label="Neurosciences" sequence="90" value="neurosciences"/>
+                <element inactive_on_update="false" label="Oncology" sequence="100" value="oncology"/>
+                <element inactive_on_update="false" label="Pharmacy" sequence="120" value="pharmacy"/>
+                <element inactive_on_update="false" label="Primary Care" sequence="130" value="primary_care"/>
+                <element inactive_on_update="false" label="Radiology" sequence="140" value="radiology"/>
+                <element inactive_on_update="false" label="Specialty Surgery" sequence="150" value="specialty_surgery"/>
+                <element inactive_on_update="false" label="Transplant" sequence="160" value="transplant"/>
+            </choice>
+        </element>
+        <element label="Name (legacy)" max_length="99" name="name_legacy" type="string"/>
+        <element label="Requester" max_length="32" name="requester" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element label="Service coordinator" max_length="32" name="service_coordinator" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element label="Service developer" max_length="32" name="service_developer" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element choice="3" label="Stage" max_length="99" name="stage" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Strategy" sequence="10" value="strategy"/>
+                <element inactive_on_update="false" label="Design" sequence="20" value="design"/>
+                <element inactive_on_update="false" label="Transition" sequence="30" value="transition"/>
+                <element inactive_on_update="false" label="Operations" sequence="40" value="operations"/>
+                <element inactive_on_update="false" label="On Hold" sequence="50" value="on_hold"/>
+            </choice>
+        </element>
+    </element>
+</database>

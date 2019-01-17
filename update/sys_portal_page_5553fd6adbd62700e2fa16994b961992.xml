@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2019-01-17 22:00:20">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>maw256</sys_created_by>
+        <sys_created_on>2018-12-13 17:46:08</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5553fd6adbd62700e2fa16994b961992</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Telehealth Service Management" source="x_scta_teleservice">61e5918edbd2e300e2fa16994b9619d2</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Telehealth Service Management">61e5918edbd2e300e2fa16994b9619d2</sys_scope>
+        <sys_update_name>sys_portal_page_5553fd6adbd62700e2fa16994b961992</sys_update_name>
+        <sys_updated_by>maw256</sys_updated_by>
+        <sys_updated_on>2018-12-13 17:46:08</sys_updated_on>
+        <title>PA New Tab</title>
+        <user/>
+        <view>pa_new_tab_15</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">5553fd6adbd62700e2fa16994b961992</page>
+                <summary>Denzil's Services by ICCE</summary>
+                <sys_created_by>maw256</sys_created_by>
+                <sys_created_on>2018-12-13 17:46:43</sys_created_on>
+                <sys_id>467371aadbd62700e2fa16994b9619b2</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>maw256</sys_updated_by>
+                <sys_updated_on>2018-12-13 17:46:43</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">1953fd6adbd62700e2fa16994b961993</grid_canvas>
+                        <height>15</height>
+                        <portal_widget display_value="Created 2018-12-13 12:46:43 PM">467371aadbd62700e2fa16994b9619b2</portal_widget>
+                        <posx>0</posx>
+                        <posy>10</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>maw256</sys_created_by>
+                        <sys_created_on>2018-12-13 17:46:43</sys_created_on>
+                        <sys_customer_update>false</sys_customer_update>
+                        <sys_id>467371aadbd62700e2fa16994b9619b5</sys_id>
+                        <sys_mod_count>2</sys_mod_count>
+                        <sys_name>1953fd6adbd62700e2fa16994b961993</sys_name>
+                        <sys_package display_value="Telehealth Service Management" source="x_scta_teleservice">61e5918edbd2e300e2fa16994b9619d2</sys_package>
+                        <sys_policy/>
+                        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                        <sys_scope display_value="Telehealth Service Management">61e5918edbd2e300e2fa16994b9619d2</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_467371aadbd62700e2fa16994b9619b5</sys_update_name>
+                        <sys_updated_by>maw256</sys_updated_by>
+                        <sys_updated_on>2018-12-13 17:47:30</sys_updated_on>
+                        <width>7</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-12-13 12:46:43 PM">467371aadbd62700e2fa16994b9619b2</portal_section>
+                        <sys_created_by>maw256</sys_created_by>
+                        <sys_created_on>2018-12-13 17:46:43</sys_created_on>
+                        <sys_id>027371aadbd62700e2fa16994b9619b3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>maw256</sys_updated_by>
+                        <sys_updated_on>2018-12-13 17:46:43</sys_updated_on>
+                        <value>3440bde6dbd62700e2fa16994b961929</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-12-13 12:46:43 PM">467371aadbd62700e2fa16994b9619b2</portal_section>
+                        <sys_created_by>maw256</sys_created_by>
+                        <sys_created_on>2018-12-13 17:46:43</sys_created_on>
+                        <sys_id>067371aadbd62700e2fa16994b9619b4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>maw256</sys_updated_by>
+                        <sys_updated_on>2018-12-13 17:46:43</sys_updated_on>
+                        <value>pie</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-12-13 12:46:43 PM">467371aadbd62700e2fa16994b9619b2</portal_section>
+                        <sys_created_by>maw256</sys_created_by>
+                        <sys_created_on>2018-12-13 17:46:43</sys_created_on>
+                        <sys_id>427371aadbd62700e2fa16994b9619b4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>maw256</sys_updated_by>
+                        <sys_updated_on>2018-12-13 17:46:43</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-12-13 12:46:43 PM">467371aadbd62700e2fa16994b9619b2</portal_section>
+                        <sys_created_by>maw256</sys_created_by>
+                        <sys_created_on>2018-12-13 17:46:43</sys_created_on>
+                        <sys_id>8e7371aadbd62700e2fa16994b9619b3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>maw256</sys_updated_by>
+                        <sys_updated_on>2018-12-13 17:46:43</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-12-13 12:46:43 PM">467371aadbd62700e2fa16994b9619b2</portal_section>
+                        <sys_created_by>maw256</sys_created_by>
+                        <sys_created_on>2018-12-13 17:46:43</sys_created_on>
+                        <sys_id>c67371aadbd62700e2fa16994b9619b4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>maw256</sys_updated_by>
+                        <sys_updated_on>2018-12-13 17:46:43</sys_updated_on>
+                        <value>Denzil's Services by ICCE</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-12-13 12:46:43 PM">467371aadbd62700e2fa16994b9619b2</portal_section>
+                        <sys_created_by>maw256</sys_created_by>
+                        <sys_created_on>2018-12-13 17:46:43</sys_created_on>
+                        <sys_id>ca7371aadbd62700e2fa16994b9619b3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>maw256</sys_updated_by>
+                        <sys_updated_on>2018-12-13 17:46:43</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">5553fd6adbd62700e2fa16994b961992</page>
+                <summary>Denzil's Services by ICCE (list)</summary>
+                <sys_created_by>maw256</sys_created_by>
+                <sys_created_on>2018-12-13 17:47:30</sys_created_on>
+                <sys_id>6da3fdaadbd62700e2fa16994b961937</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>maw256</sys_updated_by>
+                <sys_updated_on>2018-12-13 17:47:30</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">1953fd6adbd62700e2fa16994b961993</grid_canvas>
+                        <height>10</height>
+                        <portal_widget display_value="Created 2018-12-13 12:47:30 PM">6da3fdaadbd62700e2fa16994b961937</portal_widget>
+                        <posx>0</posx>
+                        <posy>0</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>maw256</sys_created_by>
+                        <sys_created_on>2018-12-13 17:47:30</sys_created_on>
+                        <sys_customer_update>false</sys_customer_update>
+                        <sys_id>69a3fdaadbd62700e2fa16994b96193c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_name>1953fd6adbd62700e2fa16994b961993</sys_name>
+                        <sys_package display_value="Telehealth Service Management" source="x_scta_teleservice">61e5918edbd2e300e2fa16994b9619d2</sys_package>
+                        <sys_policy/>
+                        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                        <sys_scope display_value="Telehealth Service Management">61e5918edbd2e300e2fa16994b9619d2</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_69a3fdaadbd62700e2fa16994b96193c</sys_update_name>
+                        <sys_updated_by>maw256</sys_updated_by>
+                        <sys_updated_on>2018-12-13 17:47:30</sys_updated_on>
+                        <width>12</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-12-13 12:47:30 PM">6da3fdaadbd62700e2fa16994b961937</portal_section>
+                        <sys_created_by>maw256</sys_created_by>
+                        <sys_created_on>2018-12-13 17:47:30</sys_created_on>
+                        <sys_id>21a3fdaadbd62700e2fa16994b961939</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>maw256</sys_updated_by>
+                        <sys_updated_on>2018-12-13 17:47:30</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2018-12-13 12:47:30 PM">6da3fdaadbd62700e2fa16994b961937</portal_section>
+                        <sys_created_by>maw256</sys_created_by>
+                        <sys_created_on>2018-12-13 17:47:30</sys_created_on>
+                        <sys_id>6da3fdaadbd62700e2fa16994b961938</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>maw256</sys_updated_by>
+                        <sys_updated_on>2018-12-13 17:47:30</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-12-13 12:47:30 PM">6da3fdaadbd62700e2fa16994b961937</portal_section>
+                        <sys_created_by>maw256</sys_created_by>
+                        <sys_created_on>2018-12-13 17:47:30</sys_created_on>
+                        <sys_id>a1a3fdaadbd62700e2fa16994b961938</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>maw256</sys_updated_by>
+                        <sys_updated_on>2018-12-13 17:47:30</sys_updated_on>
+                        <value>f1c0b52adbd62700e2fa16994b9619ba</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-12-13 12:47:30 PM">6da3fdaadbd62700e2fa16994b961937</portal_section>
+                        <sys_created_by>maw256</sys_created_by>
+                        <sys_created_on>2018-12-13 17:47:30</sys_created_on>
+                        <sys_id>a5a3fdaadbd62700e2fa16994b961939</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>maw256</sys_updated_by>
+                        <sys_updated_on>2018-12-13 17:47:30</sys_updated_on>
+                        <value>Denzil's Services by ICCE (list)</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-12-13 12:47:30 PM">6da3fdaadbd62700e2fa16994b961937</portal_section>
+                        <sys_created_by>maw256</sys_created_by>
+                        <sys_created_on>2018-12-13 17:47:30</sys_created_on>
+                        <sys_id>a9a3fdaadbd62700e2fa16994b961938</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>maw256</sys_updated_by>
+                        <sys_updated_on>2018-12-13 17:47:30</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-12-13 12:47:30 PM">6da3fdaadbd62700e2fa16994b961937</portal_section>
+                        <sys_created_by>maw256</sys_created_by>
+                        <sys_created_on>2018-12-13 17:47:30</sys_created_on>
+                        <sys_id>e1a3fdaadbd62700e2fa16994b961939</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>maw256</sys_updated_by>
+                        <sys_updated_on>2018-12-13 17:47:30</sys_updated_on>
+                        <value>list</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-12-13 12:47:30 PM">6da3fdaadbd62700e2fa16994b961937</portal_section>
+                        <sys_created_by>maw256</sys_created_by>
+                        <sys_created_on>2018-12-13 17:47:30</sys_created_on>
+                        <sys_id>e5a3fdaadbd62700e2fa16994b961938</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>maw256</sys_updated_by>
+                        <sys_updated_on>2018-12-13 17:47:30</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Services import" max_length="40" name="x_scta_teleservice_services_import" type="collection">
+        <element attributes="import_attribute_name=Service coordinator,edge_encryption_enabled=true" label="Service coordinator" max_length="40" name="u_service_coordinator" type="string"/>
+        <element attributes="import_attribute_name=Service developer,edge_encryption_enabled=true" label="Service developer" max_length="40" name="u_service_developer" type="string"/>
+        <element attributes="import_attribute_name=Service Name,edge_encryption_enabled=true" label="Service Name" max_length="69" name="u_service_name" type="string"/>
+    </element>
+</database>
